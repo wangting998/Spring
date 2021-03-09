@@ -1,0 +1,2 @@
+className=com.bh.pojo.Reflect
+methodName=method
